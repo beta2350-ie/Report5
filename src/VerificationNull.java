@@ -9,6 +9,6 @@ public class VerificationNull {
     Sample hoge=null;
     //System.out.println(hoge.i);//1
     //hoge.print();              //2
-    throw null;                //3
+    //throw null;                //3
     }
 }
